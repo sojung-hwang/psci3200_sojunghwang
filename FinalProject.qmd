@@ -1,0 +1,39 @@
+---
+title: "[Final Project] Exploring Tariff Policies' Efficacy on Reshoring Global Supply Chain - Within Context of 2018 U.S.-China Tariff War"
+author: "Sojung Hwang"
+
+date: last-modified
+toc: true
+
+bibliography: references.bib
+
+format: 
+  html: 
+    self-contained: true
+
+editor: source
+---
+
+# Introduction
+
+With the second Trump Presidency, the tariff war between the U.S. and China has reached its peak - with both sides hiking up tariffs sequentially. As of May, after the first 100 days of Trump’s second presidency, the U.S. has set a record breaking tariff level of 145% on Chinese imports [@BBC2025]. 
+
+
+# Hypothesis
+# Research Design
+## 
+# Findings
+# Empirical Extension
+# Discussion and Policy Implications
+
+```{r}
+#| echo: true
+#| include: true
+#| warning: false
+#| message: false
+
+install.packages("quarto")
+library(quarto)
+quarto_render("FinalProject.qmd", output_format = "html")
+```
+
