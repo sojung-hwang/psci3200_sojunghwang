@@ -50,4 +50,9 @@ This section develops multiple hypotheses to explain how firms responded to the 
 # Empirical Extension
 # Discussion and Policy Implications
 
+quarto render ResearchDesign.qmd --to html
+
+
+
+
 
