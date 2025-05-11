@@ -16,43 +16,378 @@ editor: source
 
 # Introduction
 
-With the second Trump presidency, the tariff war between the U.S. and China has escalated, with both sides sequentially raising tariffs. As of May, after 100 days into Trump’s second term, the U.S. has imposed a record-high tariff level of 145% on Chinese imports [@BBC2025]. Yet, the tariff war is not a new concept. This research explores the relationship between tariffs and global supply chain (GVC) restructuring, with the question: How did multinational firms (MNCs) restructure their supply chains in response to the 2018 U.S. tariffs on Chinese imports, and what factors explain their decisions? By analyzing data from the first Trump presidency, this study aims to inform current debates over the effectiveness of tariffs.
+With the second Trump presidency, the tariff war between the U.S. and China has escalated, with both sides sequentially raising tariffs. As of May, after 100 days into Trump’s second term, the U.S. has imposed a record-high tariff level of 145% on Chinese imports [@BBC2025]. Yet, the tariff war is not a new concept. This research explores the relationship between tariffs and global supply chain (GVC) restructuring, with the question: *How did multinational firms (MNCs) restructure their supply chains in response to the 2018 U.S. tariffs on Chinese imports, and what factors explain their decisions?* By analyzing data from the first Trump presidency, this study aims to inform current debates over the effectiveness of tariffs.
 
 Preliminary research on the impact of Trump's 2018 aggressive tariff shock focuses on two aspects: the policy's rationale and its real-world impact on GVCs. The Trump administration claimed that tariffs would encourage U.S. multinationals to reshore operations from China by making them costlier. Officials argued this would revitalize domestic manufacturing jobs lost to cheaper overseas labor [@BBC2019].
 
-However, contrary to the administration's expectations, current academic research suggests the 2018 tariff impose failed at triggering reshoring. 
-
-However, most academic findings suggest otherwise. The 2018 tariffs did not trigger widespread reshoring. According to the World Bank, while some nearshoring occurred, but this was exclusive to border countries, and there is no consistent evidence of large-scale reshoring. The resilience of existing GVCs, or their “stickiness,” helps explain this. Firms, driven by long-term profitability, consider the sunk costs embedded in their offshore operations. These can include various investments already put into the current GVC. For example, in buidling a manufacturing factory in China, an American MNC's sunk costs will include capital investment, regulatory compliance, skilled labor training, etc.. Unless trade shocks are severe and lasting, relocating production back to the U.S. is often not cost-effective. Moreover, reshoring itself involves new sunk costs, such as rebuilding domestic capacity and reintegrating previously outsourced functions, making it an even less attractive option [@Freund2023].
+However, contrary to the administration's expectations, current academic research suggests the 2018 tariff impose failed at triggering reshoring. According to the World Bank, while some nearshoring occurred, this was exclusive to border countries, and there is no consistent evidence of large-scale reshoring. The resilience of existing GVCs, or their “stickiness,” helps explain this. Firms, driven by long-term profitability, consider the sunk costs embedded in their offshore operations. These can include various investments already put into the current GVC. For example, in building a manufacturing factory in China, an American MNC's sunk costs will include capital investment, regulatory compliance, skilled labor training, etc.. Unless trade shocks are severe and lasting, relocating production back to the U.S. is often not cost-effective. Moreover, reshoring itself involves new sunk costs, such as rebuilding domestic capacity and reintegrating previously outsourced functions, making it an even less attractive option [@Freund2023].
 
 Instead of reshoring, the tariff shock led to a redirection of U.S. import sourcing. Countries such as Taiwan, Mexico, and Vietnam emerged as major beneficiaries. A UNCTAD report shows that China’s lost U.S. exports were redirected to these countries, particularly in office machinery and communications equipment.For instance, Taiwan was the largest beneficiary, accounting for additional exports to the U.S. of almost 4.2 billion USD in the first half of 2019. The benefits have been largely related to an increase in exports of office machinery and communication equipment [@Nicita2019]. This shift is also visible in aggregate trade data. After the first round of tariffs in July 2018, China’s share of U.S. imports declined by about 3 percentage points, while imports from “Other Asia” (e.g., Taiwan, Thailand, Vietnam) rose by a similar margin [@Grossman2024].
 
-In short, Trump’s 2018 tariff policy failed to achieve their reshoring goals. Rather, firms redirected their GVC to alternatie manufacturing hubs in countries such as Taiwan, Mexico, and Vietnam. Academic literature explains why reshoring did not happen through concepts such as GVC stickiness and suck costs but there is less discussion on why the said specific countries benefited. This paper seeks to investigate relocation pattern more closely, focusing on the drivers that made countries like Vietnam, Taiwan, and Mexico attractive destinations. 
+In short, Trump’s 2018 tariff policy failed to achieve their reshoring goals. Rather, firms redirected their GVC to alternative manufacturing hubs in countries such as Taiwan, Mexico, and Vietnam. Academic literature explains why reshoring did not happen through concepts such as GVC stickiness and suck costs but there is less discussion on why the said specific countries benefited. This paper seeks to investigate relocation pattern more closely, focusing on the drivers that made countries like Vietnam, Taiwan, and Mexico attractive destinations.
 
 With renewed U.S.-China tensions, this research offers insights into the efficacy of tariffs as a tool for GVC reconfiguration. It also contributes to our understanding of how developing and middle-income countries can capitalize on global trade disruptions. The ability of countries like Vietnam and Mexico to absorb displaced supply chains highlights broader implications for utilizing unprecedented shocks as opportunities for economic growth.
 
 # Hypothesis
 
-This section develops multiple hypotheses to explain how firms responded to the 2018 U.S. tariffs on Chinese imports and why certain countries became trade diversion beneficiaries. Specifically, it explores whether existing production linkages to China positioned said countries to benefit from trade diversion. Rather than reshoring, firms may have sought locations that allowed them to maintain some operational continuity with their China-based suppliers.
+## H: Countries with higher levels of GVC integration with China experienced greater increases in U.S. import share following the 2018 tariffs on Chinese goods.
 
-## H: Countries with higher levels of GVC integration with China would have experienced greater increases in U.S. import share following the 2018 tariffs on Chinese goods.
+This paper hypothesizes that countries with higher levels of GVC integration with China experienced greater increases in U.S. import share following the 2018 tariffs on Chinese goods. When the tariffs were introduced, American MNCs with high volumes of intermediate imports from China—particularly in fragmented global value chains—were the firms most affected. These firms suddenly faced steep increases in production costs, as Chinese inputs now carried significantly higher tariff rates. Research indicates that sectors such as office machinery and communication equipment were especially exposed \[UNCTAD\]. These industries rely on “sliced” supply chains, in which production is distributed across countries, with China often serving as a hub for final assembly or intermediate components.
 
+In response to the tariff shock, firms broadly faced three options: (i) reshoring to the U.S., (ii) regionalizing production to third countries, or (iii) maintaining the status quo and absorbing the added costs. While reshoring aligned with the Trump administration’s goals, it was economically unattractive. Firms would have to reverse sunk investments in offshoring and bear the additional cost of rebuilding domestic capacity. Since capital investment, regulatory adaptation, and workforce training cannot be easily undone, firms are unlikely to reshore unless the trade shock is both large and persistent [@D'Ambrosio]. Maintaining the status quo also proved costly. Manufacturing sectors often operate on thin profit margins and carry high fixed costs, meaning even modest increases in input prices can significantly erode profitability and competitiveness \[(Abraham et al., 2024)\].
 
+Given these constraints, firms were incentivized to find cost-effective alternatives that preserved as much of their existing supply architecture as possible. Countries highly integrated with China through GVCs were especially attractive for relocation as these economies provided three key advantages: production compatibility (shared suppliers and industrial standards), lower switching costs (existing logistical and relational ties), and operational continuity (familiar inputs and technical know-how). Such characteristics enabled firms to relocate with minimal friction, making countries such as Vietnam, Taiwan, and Mexico well-positioned to absorb U.S. demand diverted from China [@Gereffi].
 
+## Alternative Explanatory Factors
 
+While the main focus is on GVC integration, labor costs and geographic proximity to the U.S. could also influence firm relocation decisions. Countries with significantly lower wages than the U.S. may attract cost-sensitive production, while proximity lowers transport costs and lead times, making nearby countries like Mexico logistically attractive. These factors also contribute to cost-effective relocation strategies.
 
+However, GVC integration provides a more comprehensive explanation for why specific countries emerged as trade diversion beneficiaries. While labor cost and proximity affect where firms might look to move, GVC ties explain why certain countries allow for faster, smoother integration without full supply chain reconstruction. Industrial compatibility, supplier networks, and embedded trade relationships reduce the barriers to relocation and preserve operational continuity [@Gereffi]. In short, GVC integration reflects the feasibility and speed of relocation under time-sensitive cost pressures.
+
+By controlling for labor cost and distance in the empirical analysis, this paper tests whether GVC integration more accurately predicts post-tariff shifts in U.S. import sourcing than conventional cost-based explanations alone.
 
 # Research Design
-## 
 
+## Data
 
+To test whether countries with higher levels of GVC integration with China experienced greater increases in U.S. import share following the 2018 tariffs on Chinese goods, a cross-country dataset combining trade, macroeconomic, and geographic indicators was constructed, the unit of analysis being the exporting country.
+
+### Dependent Variable: U.S. Import Share in 2017 and 2020
+
+The dependent variable is the **change in U.S. import share between 2017 and 2020**, limited to sectors affected by the 2018 tariffs. Targeted products include HS codes 84–85 (machinery/electronics), 73 (steel), 76 (aluminum), 94 (furniture), 61–63 (textiles), 64 (footwear), 95 (toys), 39 (plastics), and 87 (vehicles) [@UniversityofGeorgia2022]. Data is sourced from CEPII's BACI dataset, which harmonizes UN Comtrade records at the HS6 level. The sample includes \~60 countries exporting to the U.S. in both 2017 and 2020 in the specified sectors. Although BACI does not provide firm-level insights, it offers high-resolution product-level trade data, which is widely accepted in trade research as a proxy for supply chain adjustments \[\@(Gaulier & Zignago, 2010)\]. Data for Taiwan is captured via ‘Asia, not elsewhere specified’ (ISO 490), which, per CEPII, overwhelmingly represents Taiwanese trade \[\@(CEPII, 2015)\].
+
+### Independent Variable: GVC Integration Level with China
+
+The key independent variable is **Chinese value added in a country’s gross exports**, sourced from OECD’s 2023 Trade in Value Added (TiVA) database. This captures backward GVC integration, which shows the extent to which a country's exports depend on Chinese intermediate inputs. For instance, if Vietnam’s exports contain a high percentage of Chinese inputs, it is tightly connected to China’s upstream supply chain and can serve as final assembly or export hubs while still drawing on Chinese intermediate inputs. Using 2017 data helps avoid reverse causality, as post-tariff restructuring could otherwise bias the estimates. The measure is restricted to manufacturing sectors to align with the industrial focus of the 2018 tariffs.
+
+### Control Variables: Labor Cost, Distance to U.S., GDP and Population, FTA with U.S.
+
+To isolate the effect of GVC integration, several control variables are included. **GDP per capita** (constant 2015 USD), from the World Bank, proxies for labor cost. **Geographic distance** to the U.S., drawn from the CEPII GeoDist dataset, is measured as geodesic capital-to-capital distance to approximate broad trade frictions such as shipping time and coordination costs. A binary **FTA indicator for 2018**, constructed from USTR and WTO RTA sources, controls for preferential market access that may independently affect exports. Finally, **GDP** and **population**, also from the World Bank, control for economic scale and productive capacity, which influence a country’s ability to absorb growing trade volume and diversification potential.
+
+### Summary Table
+
+```{r}
+#| echo: true
+#| include: true
+#| warning: false
+#| message: false
+
+# Load libraries
+library(dplyr)
+library(tidyverse)
+library(gt)
+
+# BACI data
+  ## Read data
+baci_2017 <- read_csv("BACI_HS17_Y2017_V202501.csv")
+baci_2020 <- read_csv("BACI_HS17_Y2020_V202501.csv")
+  ## Define tariffed HS2 codes
+tariffed_hs2 <- c("84", "85", "73", "76", "94", "61", "62", "63", "64", "95", "39", "87")
+  ## Filter for U.S. imports from tariffed products
+baci_2017_us <- baci_2017 %>%
+  filter(j == 842, substr(k, 1, 2) %in% tariffed_hs2)
+baci_2020_us <- baci_2020 %>%
+  filter(j == 842, substr(k, 1, 2) %in% tariffed_hs2)
+  ## Aggregate import value by exporter country
+imports_2017 <- baci_2017_us %>%
+  group_by(i) %>%
+  summarise(value_2017 = sum(v, na.rm = TRUE))
+imports_2020 <- baci_2020_us %>%
+  group_by(i) %>%
+  summarise(value_2020 = sum(v, na.rm = TRUE))
+  ## Join and calculate import share change
+dv_data <- full_join(imports_2017, imports_2020, by = "i") %>%
+  mutate(
+    total_2017 = sum(value_2017, na.rm = TRUE),
+    total_2020 = sum(value_2020, na.rm = TRUE),
+    share_2017 = value_2017 / total_2017,
+    share_2020 = value_2020 / total_2020,
+    import_share_change = share_2020 - share_2017
+  ) %>%
+  select(i, import_share_change)
+
+# TiVA data
+  ## Read data
+tiva <- read_csv("OECD_TIVA2017.csv")
+  ## Filtering GVC integration with China (for each country, the amount of Chinese value added in their exports in 2017)
+gvc_data <- tiva %>%
+  filter(
+    VALUE_ADDED_SOURCE_AREA == "CHN", #China as source
+    EXPORTING_AREA != "CHN", #China should not be exporting to itself
+    EXPORTING_ACTIVITY == "C",  # manufacturing only)
+    TIME_PERIOD == 2017
+  ) %>%
+  select(EXPORTING_AREA, OBS_VALUE) %>%
+  rename(
+    iso3c = EXPORTING_AREA,
+    gvc_china_value_added = OBS_VALUE
+  )
+
+# Convert numeric ISO codes in dv_data to ISO-3 alpha codes
+  ## Load needed library
+library(countrycode)
+  ## Setting dv data
+dv_data <- dv_data %>%
+  mutate(iso3c = countrycode(i, origin = "iso3n", destination = "iso3c"))
+  ## joining data
+final_data <- dv_data %>%
+  left_join(gvc_data, by = "iso3c")
+
+# Control variables -- GDP per capita
+  ## Skipping metadata and cleansing file
+gdp_pc_raw <- read_csv("WB_GDPperCapita (constant 2015 US$).csv", skip = 2)
+  ## Separate columns by comma
+gdp_pc_clean <- gdp_pc_raw %>%
+  separate(`...3`, into = paste0("col", 1:70), sep = ",", fill = "right")
+  ## Assign column names from row 1 and clean
+colnames(gdp_pc_clean) <- as.character(gdp_pc_clean[1, ])
+gdp_pc_clean <- gdp_pc_clean[-1, ]
+  ## Extract 2017 data
+gdp_pc_2017 <- gdp_pc_clean %>%
+  select(`Country Code`, `2017`) %>%
+  rename(
+    iso3c = `Country Code`,
+    gdp_per_capita = `2017`
+  ) %>%
+  mutate(gdp_per_capita = as.numeric(gdp_per_capita))
+  ## Merge with final data
+final_data <- final_data %>%
+  left_join(gdp_pc_2017, by = "iso3c")
+
+# Control variables -- distance
+  ## Read in data
+distance <- read_csv("CEPII_distance.csv")
+  ## Filter for distances to the U.S.
+distance_to_us <- distance %>%
+  filter(iso_d == "USA") %>%
+  select(iso3c = iso_o, distance_km = dist)
+  ## Merge
+final_data <- final_data %>%
+  left_join(distance_to_us, by = "iso3c")
+
+# Control variables -- GDP
+  ## Read in data and cleanse, filter
+gdp_data <- read_csv("WB_GDP.csv", skip = 4) %>%
+  select(`Country Code`, `2017`) %>%
+  rename(
+    iso3c = `Country Code`,
+    gdp_2017 = `2017`
+  )
+  ## Merge
+final_data <- final_data %>%
+  left_join(gdp_data, by = "iso3c")
+
+# Control variables -- Population
+  ## Read in data and cleanse, filter
+pop_data <- read_csv("WB_POP.csv", skip = 4) %>%
+  select(`Country Code`, `2017`) %>%
+  rename(
+    iso3c = `Country Code`,
+    population_2017 = `2017`
+  )
+  ## Merge
+final_data <- final_data %>%
+  left_join(pop_data, by = "iso3c")
+
+# Control variable -- FTA
+  ## Read in data and match countrycode to column
+fta_data <- read_csv("US_FTA_2018.csv") %>%
+  mutate(
+    iso3c = countrycode(country, origin = "country.name", destination = "iso3c"),
+    FTA_with_US = as.numeric(FTA_with_US)
+  ) %>%
+  select(iso3c, FTA_with_US)
+  ## Merge
+final_data <- final_data %>%
+  left_join(fta_data, by = "iso3c") %>%
+  mutate(
+    FTA_with_US = ifelse(is.na(FTA_with_US), 0, FTA_with_US)
+    )
+
+# Creating summary table for final dataset
+summary_table <- final_data %>%
+  select(
+    import_share_change,
+    gvc_china_value_added,
+    gdp_per_capita,
+    gdp_2017,
+    population_2017,
+    distance_km,
+    FTA_with_US 
+  ) %>%
+  summarise(
+    across(
+      everything(),
+      list(
+        Mean = ~mean(., na.rm = TRUE),
+        `Std. Dev.` = ~sd(., na.rm = TRUE),
+        Min = ~min(., na.rm = TRUE),
+        Max = ~max(., na.rm = TRUE)
+      ),
+      .names = "{.col}_{.fn}"
+    )
+  ) %>%
+  pivot_longer(
+    cols = everything(),
+    names_to = c("Variable", "Statistic"),
+    names_pattern = "(.+)_(Mean|Std\\. Dev\\.|Min|Max)"
+  ) %>%
+  pivot_wider(names_from = Statistic, values_from = value) %>%
+  gt() %>%
+  tab_header(
+    title = "Summary Statistics of Key Variables"
+  )
+summary_table
+```
+
+## Regression Model
+
+To estimate the relationship between GVC integration with China and shifts in U.S. import shares, a cross-sectional ordinary least squares (OLS) regression is used, with the outcome being the change in U.S. import share in targeted sectors (2017–2020).
+
+The model is as follows: $$
+\text{ImportShareChange}_i = \beta_0 + \beta_1 \cdot \text{GVCIntegration}_i + \beta_2 \cdot \text{GDPpc}_i + \beta_3 \cdot \text{GDP}_i + \beta_4 \cdot \text{Population}_i + \beta_5 \cdot \text{Distance}_i + \beta_6 \cdot \text{FTA}_i + \epsilon_i
+$$ OLS allows inclusion of multiple covariates (identified above) to account for confounding factors. Failing to control them would violate the exogeneity assumption of regression. Thus, an OLS model is used to isolate the portion of variation in U.S. import share changes that can be attributed to GVC integration levels.
+
+## Limitation and Empirical Extension
+
+A potential limitation of the baseline model is that labor cost advantages may still play a central role in driving relocation patterns. Although GVC integration is thought to be a more comprehensive factor than labor costs, this is based on theory. It is difficult to know firm-level cost structures could prioritize low labor cost over low integration cost in practice. Thus, if firms primarily reshored to cheaper countries regardless of GVC ties, then the observed effect of integration may be conflated.
+
+To address this, an empirical extension will be done by restricting the sample to low-GDP-per-capita countries and re-estimate the model while holding labor costs relatively constant. If GVC integration still predicts increases in U.S. import share among low-wage countries, it would suggest that supply chain embeddedness is the key factor. This helps clarify whether integration facilitates feasible relocation under time and cost pressures, as theorized.
 
 # Findings
+
+## Scatter Plot
+
+To evaluate the relationship between countries’ GVC integration with China and their gains in U.S. import share following the 2018 tariffs, a scatter plot was constructed and an OLS regression model was estimated. The figure plots the change in U.S. import share from 2017 to 2020 against the level of Chinese value-added in each country’s exports in 2017. A positive linear trend is visible as countries more integrated into Chinese production networks (e.g., Vietnam, Mexico) saw larger increases in U.S. import share after the tariffs, while countries with lower integration clustered near zero or negative change. Thus, the positive relationship is seen to be driven by the few highly integrated countries.
+
+```{r}
+#| echo: true
+#| include: true
+#| warning: false
+#| message: false
+
+# Cleanse final data country code column
+final_data_clean <- final_data %>%
+  distinct(iso3c, .keep_all = TRUE)
+
+# Create scatter plot
+ggplot(final_data_clean, aes(x = gvc_china_value_added, y = import_share_change)) +
+  geom_point() +
+  geom_smooth(method = "lm", color = "blue") +
+  geom_text(aes(label = iso3c), hjust = 0, vjust = 0) +
+  labs(
+    title = "U.S. Import Share Change vs. GVC Integration with China",
+    x = "Chinese Value-Added in Exports (USD millions)",
+    y = "Change in U.S. Import Share (2017–2020)"
+  )
+```
+
+## Regression Model
+
+The regression model confirms this pattern. GVC integration with China is positively associated with changes in U.S. import share, even after controlling for GDP per capita, total GDP, population, distance to the U.S., and the presence of a U.S. FTA. Although the estimated coefficients are small in magnitude, with the coefficient for `gvc_china_value_added` being 0.000, implying a very small positive effect on import share change (i.e., each additional USD million in Chinese value added is associated with a very small increase in U.S. import share), the model explains approximately 52% of the variance in the dependent variable (R²=0.517). In macroeconomic literature, R² values around 0.5 are considered high given the structural heterogeneity across countries [@Barro1991; @Acemoglu2001]."
+
+```{r}
+#| echo: true
+#| include: true
+#| warning: false
+#| message: false
+
+# Load library
+library(modelsummary)
+
+# Regression model
+model <- lm(
+  import_share_change ~ gvc_china_value_added + gdp_per_capita + gdp_2017 + population_2017 + distance_km + FTA_with_US,
+  data = final_data
+)
+
+modelsummary(model, output = "markdown")
+```
+
+## Strengthening Analysis with Regression Coefficients
+
+To assess whether the relationship is statistically robust, p-values associated with each variable were examined. The coefficient for GVC integration was statistically significant at the 0.001 level (p\<0.001), indicating that the observed correlation is unlikely to be due to chance. Among the control variables, only geographic distance to the U.S. is statistically significant (p = 0.03), while GDP per capita and population show no meaningful effect. The FTA variable is weakly significant (p ≈ 0.06), showing a modest negative coefficient, possibly reflecting the fact that FTAs were already in place prior to the tariff shock and did not influence post-2018 trade shifts.
+
+```{r}
+#| echo: true
+#| include: true
+#| warning: false
+#| message: false
+
+# Load necessary packages
+library(broom)
+
+# Tidy up regression model
+tidy(model)
+```
+
+In sum, the findings support the hypothesis: GVC integration with China is a strong and statistically significant predictor of post-tariff gains in U.S. imports. The effect is modest but statistically robust, and the relatively high explanatory power of the model suggests that embeddedness in China-centric production networks was a key factor in capturing redirected U.S. demand.
+
 # Empirical Extension
+
+To better isolate the role of GVC integration from the confounding influence of labor costs, an empirical extension was conducted by restricting the sample to low-wage economies using `gdp_per_capita` as proxy measure. The sample was limited to countries whose GDP per capita was lower than China’s in 2017. This allows evaluation of whether GVC integration predicts U.S. import gains even among countries that are cheaper than China to produce in by holding labor cost advantages relatively constant.
+
+```{r}
+#| echo: true
+#| include: true
+#| warning: false
+#| message: false
+
+# Setting China's wage as threshold (if wage of country lower than China, attractive to move away from China when given tariff shock)
+china_gdp_pc <- final_data %>%
+  filter(iso3c == "CHN") %>%
+  pull(gdp_per_capita)
+print(china_gdp_pc)
+
+# Filtering
+low_wage_data <- final_data %>%
+  filter(gdp_per_capita < china_gdp_pc)
+```
+
+## Regression Model & Regression Coefficients
+
+The regression results show that the coefficient on GVC integration remains positive and statistically significant (p \< 0.001), with a larger magnitude than in the baseline model. Each additional 1 million USD of Chinese value-added in a country’s exports is associated with an estimated 0.00000112 increase in U.S. import share (i.e.,coefficient for Chinese value added is 1.12 × 10⁻⁶, as estimated change suggests with `gvc_china_value_added` being \beta = 0.000001118, indicating that each additional 1 million USD of Chinese value added in a country’s exports is associated with a 0.00000112 increase). Although small in absolute terms, this effect is roughly double that found in the previous full-sample model, and the model’s R² = 0.761 indicates very strong explanatory power given the cross-country heterogeneity.
+
+```{r}
+#| echo: true
+#| include: true
+#| warning: false
+#| message: false
+
+# Regression model
+model_low_wage <- lm(
+  import_share_change ~ gvc_china_value_added + gdp_2017 + population_2017 + distance_km + FTA_with_US,
+  data = low_wage_data
+)
+
+library(modelsummary)
+modelsummary(model_low_wage, output = "markdown")
+```
+
+```{r}
+#| echo: true
+#| include: true
+#| warning: false
+#| message: false
+
+# Regression Coefficients
+  ## Load necessary package
+library(broom)
+  ## Tidy up
+tidy(model_low_wage)
+```
+
+Importantly, other covariates such as population, distance to the U.S., and FTA status are no longer significant in the low-wage group, suggesting that GVC integration is indeed a key factor in capturing diverted trade from China. These findings reinforce the argument that embeddedness in China-centric production networks enables smoother and faster realignment of supply chains, even under cost-sensitive conditions.
+
 # Discussion and Policy Implications
+This study set out to evaluate whether countries with higher levels of GVC integration with China experienced greater gains in U.S. import share following the 2018 tariff shock. The evidence strongly supports this hypothesis. Both visual analysis and regression modeling reveal a statistically significant and robust relationship between Chinese value-added in exports and post-tariff U.S. import growth. Countries such as Vietnam and Mexico were highly embedded in China-centric production networks and emerged as key beneficiaries. Importantly, the empirical extension restricting the sample to low-wage countries confirmed that this relationship persists even when labor cost advantages are held relatively constant. This suggests that production compatibility and existing supply chain linkages are more influential than cost factors alone in determining which countries absorb diverted trade.
 
-quarto render ResearchDesign.qmd --to html
+The analysis is constrained by its reliance on country-level trade data, which cannot observe firm-level decision-making or intra-industry shifts. Future research using firm or sector-level data, or dynamic models capturing longer-term adjustment, could further clarify how firms weigh cost, capability, and coordination in response to trade shocks.
 
+Howevr, while the estimated magnitudes are small, the model explains over 50% of the variance in the full sample and over 75% in the low-wage subsample. Considering this research being a cross-country regression, such numbers still prove to be significant. Thus, GVC integration was a critical determinant of a country's ability to reposition itself in global trade networks following the tariff shock in 2018.
 
+The policy implications are twofold. For the U.S., this underscores the limited efficacy of tariffs in achieving reshoring; production often relocates within the same GVC system rather than returning home. For developing countries, the results highlight the importance of embedding into GVC to attract high-value manufacturing activity.
 
+In conclusion, with the second Trump presidency and high tariffs against Chinese imports once more, it is unlikely such policy push will lead to American MNCs reshoring manufacturing to the U.S. For instance, companies like Apple are focused on moving manufacturing to different locations including Vietnam [@Forbes2023]. Hence, without complementary industrial policy, high tariffs will continue to shift production away from China—but not back to the United States.
 
-
+*Chat GPT was used to inquire regression model formula and r codes for analysis*
